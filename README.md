@@ -1,12 +1,19 @@
-# React + Vite
+# 📱 Mobile Zone – Vite React E-commerce Practice Project
+Link : 
+Description:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+"Mobile Zone" is a responsive mobile e-commerce website built using Vite and React, created as a part of my learning and development in frontend web technologies. The application showcases a curated list of mobile products with key features like:
 
-Currently, two official plugins are available:
+# 🔍 Product Filtering by brand, RAM, and price
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📱 Responsive Design for seamless experience across mobile, tablet, and desktop devices
 
-## Expanding the ESLint configuration
+⚡ Fast performance powered by Vite’s modern development tooling
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛒 Dynamic product rendering using mock data for frontend logic practice
+
+This project was created for hands-on practice to strengthen my skills in React hooks, component-based architecture, and responsive design principles.
+
+# Tech Stack:
+# React, Vite, Tailwind CSS, JavaScript, HTML/CSS
+
