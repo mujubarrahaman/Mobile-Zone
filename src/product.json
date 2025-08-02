@@ -1,0 +1,108 @@
+[
+    {
+        "id": 1,
+        "name": "Redmi A4 5G",
+        "brand": "Samsung" ,
+        "color": "grey",
+        "ram":4,
+        "storage":256,
+        "display":6.7,
+        "mrp":22999,
+        "price":20200,
+        "image":"https://m.media-amazon.com/images/I/718HzJbvY1L._SX679_.jpg"
+
+    },
+    {
+        "id": 2,
+        "name": "realme NARZO",
+        "brand": "realme" ,
+        "color": "grey",
+        "ram":6,
+        "storage":128,
+        "display":6.2,
+        "mrp":15999,
+        "price":11200,
+        "image":"https://m.media-amazon.com/images/I/41hyMMjlg2L._SX300_SY300_QL70_FMwebp_.jpg"
+
+    },
+    {
+        "id": 3,
+        "name": "Samsung Galaxy M05 ",
+        "brand": "Samsung" ,
+        "color": "green",
+        "ram":4,
+        "storage":128,
+        "display":6.2,
+        "mrp":9999,
+        "price":6500,
+        "image":"https://m.media-amazon.com/images/I/416t0eHB3SL._SX300_SY300_QL70_FMwebp_.jpg"
+
+    },
+    {
+        "id": 4,
+        "name": "Apple iPhone 15",
+        "brand": "iPhone" ,
+        "color": "black",
+        "ram":4,
+        "storage":128,
+        "display":6.1,
+        "mrp":61400,
+        "price":69900,
+        "image":"https://m.media-amazon.com/images/I/31KxpX7Xk7L._SX300_SY300_QL70_FMwebp_.jpg"
+
+    },
+    {
+        "id": 5,
+        "name": "Apple iPhone 15",
+        "brand": "iPhone" ,
+        "color": "Green",
+        "ram":4,
+        "storage":128,
+        "display":6.1,
+        "mrp":61400,
+        "price":69900,
+        "image":"https://m.media-amazon.com/images/I/71nvkHnPpZL._SX425_.jpg"
+
+    },
+    {
+        "id": 6,
+        "name": "OnePlus Nord CE4",
+        "brand": "One Plus" ,
+        "color": "Blue",
+        "ram":8,
+        "storage":128,
+        "display":6.3,
+        "mrp":9999,
+        "price":6500,
+        "image":"https://m.media-amazon.com/images/I/41GVgsI2ymL._SX300_SY300_QL70_FMwebp_.jpg"
+
+    },
+    {
+        "id": 7,
+        "name": "iQOO Z10 Lite",
+        "brand": "iQOO" ,
+        "color": "Green",
+        "ram":6,
+        "storage":256,
+        "display":6.7,
+        "mrp":10998,
+        "price":14999,
+        "image":"https://m.media-amazon.com/images/I/41bli07dayL._SX300_SY300_QL70_FMwebp_.jpg"
+
+    },
+    {
+        "id": 8,
+        "name": "Vivo Y39 5G ",
+        "brand": "Vivo" ,
+        "color": "Violet",
+        "ram":8,
+        "storage":128,
+        "display":6.7,
+        "mrp":18999,
+        "price":23999,
+        "image":"https://m.media-amazon.com/images/I/41zgqg51M9L._SY300_SX300_.jpg"
+
+    }
+    
+
+]
